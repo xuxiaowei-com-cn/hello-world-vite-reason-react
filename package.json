@@ -1,5 +1,5 @@
 {
-  "name": "hello-world-vite-vue3-reason-react",
+  "name": "hello-world-vite-reason-react",
   "version": "0.0.0",
   "scripts": {
     "dev": "run-p re:watch vite:serve",
